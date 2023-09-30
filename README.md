@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Geo-location Store](https://github.com/mradulsingh0223/Geo-Location-Store.git)
 
-- 🌱 I’m currently learning **Django, Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mradulsingh0223](https://github.com/mradulsingh0223)
 
