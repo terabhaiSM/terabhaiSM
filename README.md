@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mradulsingh0223.mradulsingh0223&"  />
+  <img src="https://komarev.com/ghpvc/?username=mradulsingh0223&label=Profile%20views&color=0e75b6&style=flat" alt="mradulsingh0223"  />
 </div>
 
 ###
