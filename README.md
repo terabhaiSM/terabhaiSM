@@ -131,10 +131,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31nzvvwraesspn3pgqwfldgxsvtu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nzvvwraesspn3pgqwfldgxsvtu&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001887.d7a604532ca84216ac4bafc9a0af2b4b.1944)](https://github.com/rayriffy/apple-music-github-profile)
 
 ###
