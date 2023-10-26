@@ -130,7 +130,7 @@
 <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
-
+<div align="center>
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001887.d7a604532ca84216ac4bafc9a0af2b4b.1944)](https://github.com/rayriffy/apple-music-github-profile)
-
+</div>
 ###
