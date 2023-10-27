@@ -132,7 +132,7 @@
 ###
 
 <div align ="center">
-    <a href="https://github.com/rayriffy/apple-music-github-profile">
+    <a href="">
         <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001887.d7a604532ca84216ac4bafc9a0af2b4b.1944" alt="Apple Music GitHub profile">
     </a>
    <a href="https://github.com/kittinan/spotify-github-profile">
