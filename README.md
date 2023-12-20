@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mradulsingh0223&label=Profile%20views&color=0e75b6&style=flat" alt="mradulsingh0223"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mradulsingh0223&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="mradulsingh0223"  />
 </div>
 
 ###
