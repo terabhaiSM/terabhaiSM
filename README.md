@@ -138,9 +138,9 @@
 ###
 
 <div align ="center">
-    <a href="">
+<!--     <a href="">
         <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001887.d7a604532ca84216ac4bafc9a0af2b4b.1944" alt="Apple Music GitHub profile">
-    </a>
+    </a> -->
    <a href="">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nzvvwraesspn3pgqwfldgxsvtu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify recently played" />
   </a>
