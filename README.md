@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm SM fan from Ghaziabad, UP, India.<br><br>- 🔭 I’m working as Software Dev Engg <br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I like to be a music critic.</p>
+<p align="left">I'm SM fan from Ghaziabad, UP, India.<br><br>- 🔭 I’m working as Software Dev Engg <br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I like to be a music critic.<br><br>- 🤩 I’m working on my 3D Portfolio using Gulpjs, excited to finish it and present it.</p>
 
 ###
 
