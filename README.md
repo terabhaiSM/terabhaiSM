@@ -121,8 +121,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terabhaiSM&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=terabhaiSM&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dracula&preferLogin=false">    <img  alt="mradulsingh2310's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mradulsingh2310?cardType=level-alternate&theme=dracula&preferLogin=false" />  </a>
 </div>
 
 ###
@@ -134,17 +133,6 @@
 ###
 
 <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
-<div align ="center">
-<!--     <a href="">
-        <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001887.d7a604532ca84216ac4bafc9a0af2b4b.1944" alt="Apple Music GitHub profile">
-    </a> -->
-   <a href="">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nzvvwraesspn3pgqwfldgxsvtu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify recently played" />
-  </a>
-</div>
 
 
 ###
